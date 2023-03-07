@@ -16,9 +16,9 @@ The application supports various features such as searching, filtering, and sort
 
 ### UI
 
-![Screen Shot 2023-03-07 at 2.23.52 AM](/Users/wujinze/Library/Application Support/typora-user-images/Screen Shot 2023-03-07 at 2.24.43 AM.png)
+![img](https://lh4.googleusercontent.com/AeOnk0BdQo4NlPoJFy7kDP7sVazYqHYUzkPuz9U4TMns38i9kBFHID2uZK3oQ42CS7MHF8NTTJNr9-_K8x1J6hEdWuXvxIB3wERQgxVUQ7QuJ9D7SZzijsTEq3nvGoSroqOkjm2NyEJnM9eHfYdsfmdD5g=s2048)
 
-![Screen Shot 2023-03-07 at 2.25.01 AM](/Users/wujinze/Library/Application Support/typora-user-images/Screen Shot 2023-03-07 at 2.25.01 AM.png)
+![img](https://lh6.googleusercontent.com/6YBK3jIOfvYl1CuzPue6isQgazJnlA9JWa45OfLcovwHm4HfynIxY8RDxUPeUGvXuNdJ4cYQe6Rp3it-3C-aF0Vsdqtj-d2JZlzWIjrwKI9TXLYa17ZM4cOjysl7KJSHCDFLsv406ebUSUgOrd2AxkDQeQ=s2048)
 
-![Screen Shot 2023-03-07 at 2.25.10 AM](/Users/wujinze/Library/Application Support/typora-user-images/Screen Shot 2023-03-07 at 2.25.10 AM.png)
+![img](https://lh5.googleusercontent.com/bHHj0cZZXaufDPvR9p5V9HNvZPUsVijFlLzioyci1jQarmeOPVqx-omcFXvLHVHIvu0694JtU9_I3esWU2cvobPfCMZ1VIfvTh_ybgx5lv1FzswMwLV4mYSm36SPXocHWZXr9YWNQREecrz1C_eVsvlLkg=s2048)
 
